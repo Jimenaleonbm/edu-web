@@ -9,7 +9,6 @@ If none → the number itself, as text
 function fizzBuzz(n){
     let result = []
     for(let i = 1; i <= n; i++){
-        //result.push(`${i}`)
         if(i % 3 === 0 && i % 5 === 0){
             result.push("FizzBuzz")
         } else if(i % 3 === 0){

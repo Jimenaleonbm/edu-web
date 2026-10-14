@@ -1,0 +1,17 @@
+:root {
+  /* Colours */
+  --edu-color-primary: #2563eb;
+  --edu-color-text: #1a1a1a;
+  --edu-color-bg: #ffffff;
+  --edu-color-correct: #15803d;
+  --edu-color-wrong: #b91c1c;
+
+  /* Spacing */
+  --edu-space-sm: 8px;
+  --edu-space-md: 16px;
+  --edu-space-lg: 24px;
+
+  /* Shape & focus */
+  --edu-radius: 8px;
+  --edu-focus: 3px solid #f59e0b;
+}
