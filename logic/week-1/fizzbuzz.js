@@ -22,4 +22,4 @@ function fizzBuzz(n){
     return result
 }
 
-console.log(fizzBuzz(15))
+module.exports = { fizzBuzz };
